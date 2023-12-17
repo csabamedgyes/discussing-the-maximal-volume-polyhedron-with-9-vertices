@@ -1,1 +1,1 @@
-In order to view the code, we need to download them to our local machine.
+In order to view the codes, we need to download them to our local machine.
