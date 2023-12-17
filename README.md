@@ -1,1 +1,1 @@
-need to download the files etc, medial means etc
+In order to view the code, we need to download them to our local machine.
